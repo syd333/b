@@ -1,0 +1,33 @@
+body {
+    font-family: "Open Sans", sans-serif;
+ 
+}
+
+header {
+    padding: 156px 0 100px;
+    background-color: black;
+  }
+  
+  section {
+    padding: 150px 0;
+  }
+  
+
+h1, h2, h3 {
+    font-family: 'Archivo Black', sans-serif;
+}
+
+header h1 {
+color: white
+}
+
+.site-footer {
+    background-color: black;
+    text: white;
+    padding:  20px;
+}
+
+.navbar {
+    background-color: black;
+    text: white
+}
